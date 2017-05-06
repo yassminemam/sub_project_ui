@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubProject_UI</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="exam_details">Please Select Exam Type</string>
+    <string name="type_hint">Academic</string>
+    <string name="city_hint">Mascat</string>
+    <string name="venue_hint">Polyglot</string>
+    <string name="exam_type">Exam Type:</string>
+    <string name="city">City:</string>
+    <string name="venue">Venue:</string>
+    <string name="choose">Choose</string>
+    <string name="select_exam">SelectYour Exam</string>
+    <string name="select_exam_hint">Select one or more exam you would like to search for</string>
+    <string name="confirm_title">NOTICE!</string>
+    <string name="confirm_hint">You Have Selected</string>
+    <string name="confirm">Confirm</string>
+</resources>
